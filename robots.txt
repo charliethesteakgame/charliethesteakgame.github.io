@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charliethesteakgame.github.io/sitemap.xml
